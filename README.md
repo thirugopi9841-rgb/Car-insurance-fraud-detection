@@ -44,7 +44,7 @@ Among all the other algorithms, K Nearest Neighbours achieved the highest accura
 Data Science & Analytics | Machine Learning | Predictive Modeling </pre>
 - 🌐🔗 GitHub: https://github.com/thirugopi9841-rgb
 - ℹ️🔗 LinkedIn: https://www.linkedin.com/in/thirumalai-gopi-624897353?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- ✉️🔗 Eamil: thirugopi9841@gmail.com
+- ✉️🔗 Email: thirugopi9841@gmail.com
 
 
 
